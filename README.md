@@ -11,4 +11,4 @@
 ## Project Skills:
 
 Julia, JuMP, Gurobi, Clp.
-Integer Programming, Multiperiod Planning Programming
+* Integer Programming, Multiperiod Planning Programming
