@@ -12,4 +12,4 @@
 
 * Julia, JuMP
 * Optimzer choice: Gurobi
-* Integer Programming, Multiperiod Planning Programming (Linear Programming)
+* Integer Programming, Linear Programming (Multiperiod Planning Programming)
