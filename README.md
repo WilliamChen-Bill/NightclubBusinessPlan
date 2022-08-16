@@ -7,7 +7,8 @@
 
 * **Part (a)** goal of this project is utilizing Multiperiod Planning Programming to calculate the minimum cost to produce the different drinks for nightclubs.
 * **Part (b)** goal of this project is utilizing Integer Programming to make a decision about which month we should open our nightclub, change to open as a bar, or not open both in different months based on the random dataset for the demand of the nightclub customers.
-Project Skills:
+
+## Project Skills:
 
 Julia, JuMP, Gurobi, Clp.
 Integer Programming, Multiperiod Planning Programming
