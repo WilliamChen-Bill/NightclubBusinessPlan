@@ -10,5 +10,6 @@
 
 ## Project Skills:
 
-Julia, JuMP, Gurobi, Clp.
+* Julia, JuMP
+* Optimzer choice: Gurobi
 * Integer Programming, Multiperiod Planning Programming
