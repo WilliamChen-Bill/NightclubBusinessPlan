@@ -1,4 +1,4 @@
-# NightclubBusinessPlan
+# Nightclub Business Plan
 ## Project Main Idea/Goal:
 
 * we want to find out the **minimum cost** to fulfilling the demand of the nightclub and also try to figure out how we are going to run this nightclub business for **maximum profit**.
