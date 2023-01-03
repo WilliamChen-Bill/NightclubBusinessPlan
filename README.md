@@ -10,6 +10,11 @@
   * Idea of balance for each month which is T
   
 * **Part (b)** goal of this project is utilizing **Integer Programming** to make a decision about which month we should open our nightclub, change to open as a bar, or not open both in different months based on the random dataset for the demand of the nightclub customers.
+  * **add indicator variable** 
+  
+ $$
+ z_i = \left\\{\begin{array}{l}\text{1 if we make product i}\\\\\text{0 otherwise}\end{array}\right.\\ 
+ $$ 
 
 ## Project Skills:
 
